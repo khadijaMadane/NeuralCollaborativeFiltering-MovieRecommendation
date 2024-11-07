@@ -37,7 +37,7 @@ To run the project, clone this repository and install the required dependencies.
 ### Clone the repository:
 
 bash
-git clone https://github.com/username/NeuralCollaborativeFiltering-MovieRecommendation.git
+git clone https://github.com/khadijaMadane/NeuralCollaborativeFiltering-MovieRecommendation.git
 
 
 ### Navigate to the project directory:
@@ -62,62 +62,7 @@ The **MovieLens** dataset can be downloaded from [here](https://grouplens.org/da
 2. Ensure that the `train.csv` and `test.csv` files are properly formatted for use with the model.
 3. The script will split the dataset into training and test sets automatically.
 
-### Training the Model
 
-To start training the model, run the following command:
-
-bash
-python train.py --epochs 10 --batch_size 512 --learning_rate 0.001
-
-
-This command starts the training process for 10 epochs with a batch size of 512 and a learning rate of 0.001.
-
-### Evaluation
-
-After training, the model’s performance can be evaluated on the test set using the following command:
-
-bash
-python evaluate.py --model_path "path/to/saved_model.pth"
-
-
-This will output the **MSE**, **RMSE**, **MAE**, and **Accuracy** metrics on the test dataset.
-
-### Visualizing Results
-
-To visualize the training progress, you can use the following command to plot the loss curves:
-
-bash
-python visualize.py --log_dir "path/to/log/directory"
-
-
-## Folder Structure
-
-plaintext
-NeuralCollaborativeFiltering-MovieRecommendation/
-│
-├── data/                    # Preprocessed dataset files
-├── models/                  # Saved model checkpoints
-├── scripts/                 # Python scripts for training, evaluation, and visualization
-│   ├── train.py
-│   ├── evaluate.py
-│   └── visualize.py
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
-
-
-## Requirements
-
-- Python 3.x
-- PyTorch 1.10+
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-
-To install the necessary dependencies, you can run the following:
-
-bash
-pip install -r requirements.txt
 
 
 ## Contributing
