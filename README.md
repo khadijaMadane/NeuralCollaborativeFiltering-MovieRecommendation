@@ -62,9 +62,6 @@ The **MovieLens** dataset can be downloaded from [here](https://grouplens.org/da
 2. Ensure that the `train.csv` and `test.csv` files are properly formatted for use with the model.
 3. The script will split the dataset into training and test sets automatically.
 
-
-
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request if you have any improvements, bug fixes, or suggestions. If you find any issues, you can also open an issue in the repository.
