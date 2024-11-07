@@ -77,10 +77,4 @@ Contributions are welcome! Please feel free to submit a pull request if you have
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-- The **MovieLens dataset** is provided by GroupLens Research at the University of Minnesota.
-- Thanks to the authors of the original Neural Collaborative Filtering paper for their contributions to collaborative filtering research.
-
-
-This README.md file is now complete with all the necessary instructions, project overview, and contributor information. You can copy and paste this into your project's README.md file. Let me know if you need further adjustments!
