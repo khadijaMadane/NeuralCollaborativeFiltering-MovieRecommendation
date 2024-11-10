@@ -49,7 +49,7 @@ Contributions are welcome! Please feel free to submit a pull request if you have
 
 ## References
 
-1. He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T. S. (2017). Neural Collaborative Filtering. Proceedings of the 26th International Conference on World Wide Web (pp. 173–182). [Link](https://dl.acm.org/doi/10.1145/3038912.3052569)
+1. He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T. S. (2017). Neural Collaborative Filtering. Proceedings of the 26th International Conference on World Wide Web (pp. 173–182). 
 
 2. MovieLens Dataset. GroupLens Research. [Link](https://grouplens.org/datasets/movielens/) 
 
