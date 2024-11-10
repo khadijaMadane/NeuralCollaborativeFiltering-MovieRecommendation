@@ -43,8 +43,9 @@ Once the dependencies are installed, you can start training the model on the Mov
 Contributions are welcome! Please feel free to submit a pull request if you have any improvements, bug fixes, or suggestions. If you find any issues, you can also open an issue in the repository.
 
 #### Contributors:
-- **Basma El Barki**
 - **Khadija Ben Madanne**
+- **Basma El Barki**
+
 
 ## References
 
