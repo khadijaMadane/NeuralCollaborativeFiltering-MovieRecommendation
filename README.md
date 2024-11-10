@@ -10,7 +10,7 @@ The primary objective of this project is to build a recommendation system that c
   - The MovieLens dataset is used, containing **33,832,162 ratings** for **86,537 movies**.
   - **Training Set**: (27,065,729, 2) — pairs of user and movie ratings.
   - **Test Set**: (6,766,433, 2) — used for model evaluation.
-The **MovieLens** dataset can be downloaded from [here](https://grouplens.org/datasets/movielens/).
+  - The **MovieLens** dataset can be downloaded from [here](https://grouplens.org/datasets/movielens/).
 
 ## Installation
 
