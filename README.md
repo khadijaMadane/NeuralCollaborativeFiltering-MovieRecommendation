@@ -16,19 +16,19 @@ The **MovieLens** dataset can be downloaded from [here](https://grouplens.org/da
 
 To run the project, clone this repository and install the required dependencies.
 
-#### Clone the repository:
+- #### Clone the repository:
 
 bash
 git clone https://github.com/khadijaMadane/NeuralCollaborativeFiltering-MovieRecommendation.git
 
 
-#### Navigate to the project directory:
+- #### Navigate to the project directory:
 
 bash
 cd NeuralCollaborativeFiltering-MovieRecommendation
 
 
-#### Install the dependencies:
+- #### Install the dependencies:
 
 bash
 pip install -r requirements.txt
